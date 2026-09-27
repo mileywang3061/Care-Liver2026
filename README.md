@@ -8,6 +8,7 @@
 
 This repository contains the official 3D inference pipeline for the **CARE 2026 Liver Challenge**. The method leverages a frozen 3DINO feature extractor and a 4-fold ensemble classifier to generate highly calibrated per-case probabilities, ensuring robust performance even with severe modality missingness.
 
+The Docker link is: https://pan.baidu.com/s/1o7u_fSVtRPuQihRoKziwaw?pwd=av5s
 ---
 
 ## ✨ Key Features
