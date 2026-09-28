@@ -11,7 +11,7 @@ This repository contains the official 3D inference pipeline for the **CARE 2026 
 * The LiFS Docker link is: https://pan.baidu.com/s/1o7u_fSVtRPuQihRoKziwaw?pwd=av5s
 * The LiSeg Docker link is: https://pan.baidu.com/s/16BSQVZ5FkwBkIZweUeSB8g?pwd=rhh8
 ---
-1
+
 ## ✨ Key Features
 
 *   🧠 **3DINO Feature Extraction:** Captures continuous three-dimensional spatial topologies, overcoming the limitations of 2D slice-by-slice processing.
